@@ -1,0 +1,48 @@
+{
+  "name": {
+    "CN": {
+      "title": "Kyouka Button",
+      "fullName": ""
+    },
+    "EN": {
+      "title": "Kyouka Button",
+      "fullName": ""
+    }
+  },
+  "readme": "",
+  "header": {
+    "icon": "",
+    "youtube": "https://www.youtube.com/channel/UCupCAZz1l52vV8m-dvaoBVQ",
+    "twitter": "https://twitter.com/OverideaHQ",
+    "bilibili": "https://space.bilibili.com/18149131"
+  },
+  "link": [
+    {
+      "name": "",
+      "url": "",
+      "background": ""
+    }
+  ],
+  "footer": {
+    "author": [
+      {
+        "name": "随便先辈[Ge_Kira233]",
+        "url": "https://blog.daecnlt.com/"
+      }
+    ],
+    "info": [
+      "一些不知名DD们送给京华的礼物[可能]"
+    ],
+    "githubUrl": "https://github.com/Timolop233/Kyouka-button"
+  },
+  "console": {
+    "text": "",
+    "size": "",
+    "color": "",
+    "img": "",
+    "imgWidth": "",
+    "imgHeight": ""
+  },
+  "mediaSession": "",
+  "CDN": ""
+}
