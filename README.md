@@ -1,30 +1,5 @@
-# Kyouka-Button
-
-[[EN](https://github.com/Timolop233/Kyouka-button/blob/main/README-EN.md)/中文]
-
-大家吼！这是数位DD联合搜集整合圣京的网站！
-
-
-在这儿，你可以无时不刻地单（an）推（ti）京宝。
-
-这些圣京都是由DD们一天48h从京宝的录播和直播里【好像是个病句】搜集整合到的。
-
-假如你有什么有趣的圣京，可以按照要求，通过［[圣京提交](https://github.com/Timolop233/Kyouka-button/issues/1)］分享给我们，我们会马上进行审核，并且，审核通过后就会马上把这条圣京放在网站上。
-
-啊，对了，有的时候可能我们也会摸鱼，提交的圣京不能够马上进行审核。你也可以通过[[监工](https://github.com/Timolop233/Kyouka-button/projects/2)]来催促我们审核。
-
-
-
-### 草 罢工了 不写了
-
-
-
-
-
-   						                                 By：语不标菌
-
-
-<br/>
-
-
-###本站点使用模板[voices-button](https://github.com/blacktunes/voices-button) 喜欢去点个stat哦23333
+# obamama
+11
+### LICENSE
+- 使用[voices-button-cli](https://github.com/blacktunes/voices-button-cli)创建的语音按钮
+- 所用模板为[Hiiro按钮](https://github.com/blacktunes/hiiro-button)

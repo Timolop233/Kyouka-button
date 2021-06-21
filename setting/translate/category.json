@@ -3,7 +3,42 @@
     "name": "圣经",
     "translate": {
       "zh-CN": "京 典 圣 京[目前网站为测试阶段]",
-      "en-US": ""
+      "en-US": "Yes!yes!YES!!"
+    }
+  },
+  {
+    "name": "kawayi",
+    "translate":{
+      "zh-CN": "京宝可爱时间！！！",
+      "en-US": "Kyouka lovely time!!!"
+    }
+  },
+  {
+    "name": "233",
+    "translate": {
+      "zh-CN": "京 华 大 笑",
+      "en-US": "Kyouka hahahahaha!"
+    }
+  },
+  {
+    "name": "qwq",
+    "translate": {
+      "zh-CN": "京宝哭泣",
+      "en-US": "wuwuwuwuwuwu~~~"
+    }
+  },
+  {
+    "name": "mama",
+    "translate":{
+      "zh-CN": "妈妈！",
+      "en-US": "mom!"
+    }
+  },
+  {
+    "name":"null",
+    "translate":{
+      "en-US": "...",
+      "zh-CN": "不知道放在哪里的"
     }
   }
 ]
