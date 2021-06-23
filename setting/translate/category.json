@@ -2,14 +2,14 @@
   {
     "name": "圣经",
     "translate": {
-      "zh-CN": "京 典 圣 京[目前网站为测试阶段]",
-      "en-US": "Yes!yes!YES!!"
+      "zh-CN": "京 典 名 场 面[本栏部分语音巨长，请耐心等待（其实都加载挺慢的）]",
+      "en-US": ""
     }
   },
   {
     "name": "kawayi",
     "translate":{
-      "zh-CN": "京宝可爱时间！！！",
+      "zh-CN": "可爱还涩气的京宝！！！[还**]",
       "en-US": "Kyouka lovely time!!!"
     }
   },
@@ -17,7 +17,14 @@
     "name": "233",
     "translate": {
       "zh-CN": "京 华 大 笑",
-      "en-US": "Kyouka hahahahaha!"
+      "en-US": ""
+    }
+  },
+  {
+    "name":"nxlm",
+    "translate":{
+      "en-US": "",
+      "zh-CN": "你 邪 了 门"
     }
   },
   {
@@ -28,6 +35,13 @@
     }
   },
   {
+    "name": "chuchu",
+    "translate": {
+      "zh-CN": "脑 髓 吸 食",
+      "en-US": "chuchu~~~"
+    }
+  },
+  {
     "name": "mama",
     "translate":{
       "zh-CN": "妈妈！",
@@ -35,10 +49,38 @@
     }
   },
   {
+    "name": "aaa",
+    "translate":{
+      "zh-CN": "怪叫合集",
+      "en-US": ""
+    }
+  },
+  {
+    "name": "flag",
+    "translate": {
+      "zh-CN": "京宝定下的falg！",
+      "en-US": ""
+    }
+  },
+  {
+    "name": "京歌",
+    "translate": {
+      "zh-CN": "京歌",
+      "en-US": ""
+    }
+  },
+  {
     "name":"null",
     "translate":{
-      "en-US": "...",
+      "en-US": "I don't know where it is",
       "zh-CN": "不知道放在哪里的"
+    }
+  },
+  {
+    "name":"???",
+    "translate":{
+      "en-US": "???",
+      "zh-CN": "???"
     }
   }
 ]

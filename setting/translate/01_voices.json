@@ -4,7 +4,7 @@
     "path": "赢了.mp3",
     "date": "2020-02-15",
     "translate": {
-      "zh-CN": "赢了，赢了，赢了！！！",
+      "zh-CN": "赢了，赢了，赢了！！！[这个语音巨长 加载时间也很长 亲耐心等待]",
       "en-US": "Jingdian Shengjing"
     },
     "usePicture": {
@@ -49,7 +49,7 @@
       "zh-CN": "",
       "en-US": ""
     },
-    "category": "null",
+    "category": "kawayi",
     "mark": {
       "title": "帕里每天吃我的棒棒糖",
       "time": "",
@@ -118,7 +118,7 @@
     "path": "妈妈1.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈1",
+      "zh-CN": "妈妈",
       "en-US": ""
     },
     "usePicture": {
@@ -137,7 +137,7 @@
     "path": "妈妈2.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈2",
+      "zh-CN": "妈~妈",
       "en-US": ""
     },
     "usePicture": {
@@ -156,7 +156,7 @@
     "path": "妈妈3.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈3",
+      "zh-CN": "麻↗麻↗",
       "en-US": ""
     },
     "usePicture": {
@@ -175,7 +175,7 @@
     "path": "妈妈4.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈4",
+      "zh-CN": "妈↘妈↗",
       "en-US": ""
     },
     "usePicture": {
@@ -194,7 +194,7 @@
     "path": "妈妈5.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈5",
+      "zh-CN": "妈→妈→",
       "en-US": ""
     },
     "usePicture": {
@@ -213,7 +213,7 @@
     "path": "妈妈6.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈6",
+      "zh-CN": "妈妈siki",
       "en-US": ""
     },
     "usePicture": {
@@ -232,7 +232,7 @@
     "path": "妈妈7.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈7",
+      "zh-CN": "麻→麻→",
       "en-US": ""
     },
     "usePicture": {
@@ -251,7 +251,7 @@
     "path": "妈妈8.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈8",
+      "zh-CN": "妈↗妈↗",
       "en-US": ""
     },
     "usePicture": {
@@ -270,7 +270,7 @@
     "path": "妈妈9.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈9",
+      "zh-CN": "妈↗↗妈↗↗",
       "en-US": ""
     },
     "usePicture": {
@@ -289,7 +289,7 @@
     "path": "妈妈10.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈10",
+      "zh-CN": "妈↘妈→",
       "en-US": ""
     },
     "usePicture": {
@@ -308,7 +308,7 @@
     "path": "妈妈11.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈11",
+      "zh-CN": "妈→妈→",
       "en-US": ""
     },
     "usePicture": {
@@ -327,7 +327,7 @@
     "path": "妈妈12.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈12",
+      "zh-CN": "妈↗↗↗妈↗↗↗",
       "en-US": ""
     },
     "usePicture": {
@@ -346,7 +346,7 @@
     "path": "妈妈13.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈13",
+      "zh-CN": "妈↗妈→",
       "en-US": ""
     },
     "usePicture": {
@@ -365,7 +365,7 @@
     "path": "妈妈14.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈14",
+      "zh-CN": "妈↗妈↗[QWQ]",
       "en-US": ""
     },
     "usePicture": {
@@ -384,7 +384,7 @@
     "path": "妈妈15.mp3",
     "date": "2021-02-25",
     "translate": {
-      "zh-CN": "妈妈15",
+      "zh-CN": "妈→妈↘[QWQ]",
       "en-US": ""
     },
     "usePicture": {
@@ -404,13 +404,13 @@
     "date": "2020-11-25",
     "translate": {
       "zh-CN": "你做梦，你邪了门！",
-      "en-US": ""
+      "en-US": "邪门.jpg"
     },
     "usePicture": {
       "zh-CN": "邪门.jpg",
       "en-US": ""
     },
-    "category": "圣经",
+    "category": "nxlm",
     "mark": {
       "title": "未知或其他联动",
       "time": "",
@@ -422,7 +422,7 @@
     "path": "京华大笑1.mp3",
     "date": "2020-03-30",
     "translate": {
-      "zh-CN": "京华大笑1",
+      "zh-CN": "京华打鸣1",
       "en-US": "HAHAHAHAHA1"
     },
     "usePicture": {
@@ -441,7 +441,7 @@
     "path": "京华大笑2.mp3",
     "date": "2020-03-30",
     "translate": {
-      "zh-CN": "京华大笑2",
+      "zh-CN": "京华打鸣2",
       "en-US": "HAHAAHAHAH2"
     },
     "usePicture": {
@@ -527,6 +527,1248 @@
     "category": "233",
     "mark": {
       "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "你邪了门魔音版",
+    "path": "地狱魔音-你邪了门.mp3",
+    "date": "2021-04-29",
+    "translate": {
+      "zh-CN": "你邪了门[魔音警告！！！]↓",
+      "en-US": "nxlm"
+    },
+    "usePicture": {
+      "zh-CN": "邪门.jpg",
+      "en-US": "邪门.jpg"
+    },
+    "category": "nxlm",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "你邪了门渐变",
+    "path": "渐变-你邪了门.mp3",
+    "date": "2021-04-29",
+    "translate": {
+      "zh-CN": "你邪了门[渐变警告！！！]↓",
+      "en-US": "nxlm"
+    },
+    "usePicture": {
+      "zh-CN": "邪门.jpg",
+      "en-US": "邪门.jpg"
+    },
+    "category": "nxlm",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "你邪了门温柔版",
+    "path": "温柔-你邪了门.mp3",
+    "date": "2021-04-29",
+    "translate": {
+      "zh-CN": "你邪了门[温柔]↓",
+      "en-US": "nxlm"
+    },
+    "usePicture": {
+      "zh-CN": "邪门.jpg",
+      "en-US": "邪门.jpg"
+    },
+    "category": "nxlm",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "我手机修好就写小说",
+    "path": "手机修好我就写小说.mp3",
+    "date": "2021-04-29",
+    "translate": {
+      "zh-CN": "我手机修好就写小说[京华你小说呢？？？]",
+      "en-US": "nxlm"
+    },
+    "category": "flag",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "chuchu",
+    "path": "超长chuchu.mp3",
+    "date": "2021-04-29",
+    "translate": {
+      "zh-CN": "脑髓吸食chuchu超长版[三思后在听！！！]",
+      "en-US": "nxlm"
+    },
+    "category": "chuchu",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "ha↑ha↑",
+    "path": "嘿↑嘿↑.mp3",
+    "date": "2021-04-29",
+    "translate": {
+      "zh-CN": "嘿↑嘿↑",
+      "en-US": "hei↑hei↑"
+    },
+    "category": "233",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "yeeeee",
+    "path": "耶~~~~~~~~~.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "耶~~~！！！！",
+      "en-US": "yeeeee~~~"
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://wwwbilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "yes FBI ******",
+    "path": "yesFBI.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "YES FBI ********",
+      "en-US": "YES FBI ********"
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://wwwbilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "啊↗↘",
+    "path": "啊↗.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "啊↗↘",
+      "en-US": "aaaa↗↘"
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://wwwbilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "啊啊→→",
+    "path": "啊啊→→.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "啊啊→→",
+      "en-US": "aa→→"
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://wwwbilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "哇啊→",
+    "path": "哇啊→.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "哇啊→→",
+      "en-US": "waa→→"
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://wwwbilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "chuchu之歌→",
+    "path": "chu日歌.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "chuchu之歌",
+      "en-US": "chuchu"
+    },
+    "category": "chuchu",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "京华NTR神父→",
+    "path": "ntr神父-时长警告.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "京华NTR",
+      "en-US": "kyouka NTR"
+    },
+    "category": "圣经",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "小希，生日快乐",
+    "path": "小希，生日快乐.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "小桃，生日快乐",
+      "en-US": "kyouka NTR"
+    },
+    "category": "圣经",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "我要片哥",
+    "path": "我要片哥.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "我要片哥",
+      "en-US": "I want a porn operator"
+    },
+    "category": "圣经",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "我张京华会帮助每一位DT毕业",
+    "path": "我张京华会帮助每一位DT毕业.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "我张京华会帮助每一位DT毕业",
+      "en-US": "I Kyouka will help every DT graduate"
+    },
+    "category": "flag",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "哇啊↗↘",
+    "path": "哇啊↗↘.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "哇啊↗↘",
+      "en-US": "waa↗↘"
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "啊↗啊啊啊",
+    "path": "啊啊啊啊.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "啊↗啊啊啊",
+      "en-US": "waaaaaaa"
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "嗯嗯嗯呜呜呜",
+    "path": "嗯嗯嗯呜呜呜.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "嗯嗯嗯呜呜呜",
+      "en-US": "enenen wuwuwuwuwu"
+    },
+    "category": "qwq",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "京宝求饶",
+    "path": "京宝求饶.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "京宝求饶",
+      "en-US": "kyouka beg for mercy"
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "啊啊♂♂为什么♂",
+    "path": "啊啊♂♂为什么♂.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "啊啊♂♂为什么♂",
+      "en-US": "Ah, ah ♂♂ Why? ♂"
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "啊哈哈哈哈",
+    "path": "啊哈哈哈哈.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "啊哈哈哈",
+      "en-US": "ahahaha"
+    },
+    "category": "233",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "啊~啊~啊~哈哈哈哈",
+    "path": "啊~啊~啊~哈哈哈哈.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "啊~啊~啊~哈哈哈哈",
+      "en-US": "a~a~a~hahahaha"
+    },
+    "category": "233",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "目力京华",
+    "path": "目力京华.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "目 力 京 华",
+      "en-US": "It's too smelly to describe"
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "京报器",
+    "path": "京报器.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "京 报 器",
+      "en-US": "Kyouka alarm"
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "ohhhnooo",
+    "path": "ohhhnooo.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "ohhhnooo",
+      "en-US": "ohhhnooo"
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "猿型暴露",
+    "path": "猿型暴露.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "猿型暴露",
+      "en-US": "Ape exposure"
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "脑髓吸食1",
+    "path": "脑髓吸食.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "脑髓吸食[声音过小]",
+      "en-US": ""
+    },
+    "category": "chuchu",
+    "mark": {
+      "title": "粉丝提交",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "无路赛1",
+    "path": "无路赛1.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "无路赛1",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "无路赛2",
+    "path": "无路赛2低音量注意.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "无路赛2",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "你退学吧",
+    "path": "你退学吧.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "你退学吧",
+      "en-US": ""
+    },
+    "category": "圣经",
+    "mark": {
+      "title": "未知或其他联动",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "啊♂太快了♂",
+    "path": "啊♂太快了♂.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "啊♂太快了♂",
+      "en-US": ""
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "战地记者张京华的《CS:GO》怪声合集",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1pp4y147oU"
+    }
+  },
+  {
+    "name": "谁说的麻婆豆腐加水？",
+    "path": "谁说的麻婆豆腐加水？.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "麻婆豆腐加水？",
+      "en-US": ""
+    },
+    "category": "圣经",
+    "mark": {
+      "title": "【张京华】谁说麻婆豆腐要加水？？？",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1Bp4y1q7f9"
+    }
+  },
+  {
+    "name": "fa语锤你爱了吗",
+    "path": "fa语锤你爱了吗.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "fa语锤你爱了吗",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "【Overidea/Hiiro】7种语言的对话你听过吗（误）",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1qp4y167yk"
+    }
+  },
+  {
+    "name": "侄子？",
+    "path": "侄子？.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "侄子？[zizi]",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "【京华×冰糖】幼 稚 园 战 争【侄子的疼】",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1Nv4y1f7x4"
+    }
+  },
+  {
+    "name": "素质锤",
+    "path": "素质锤.mp3",
+    "date": "2021-05-06",
+    "translate": {
+      "zh-CN": "素质锤[*********]",
+      "en-US": ""
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "【完全胜利的恐怖直播】异形【张京华尖叫】",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV17D4y1Q7wK"
+    }
+  },
+  {
+    "name": "我爱你老婆",
+    "path": "我爱你老婆[伯].mp3",
+    "date": "2021-06-21",
+    "translate": {
+      "zh-CN": "我爱你老婆[伯]",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "努力鸭子坐的京华",
+    "path": "努力鸭子坐的京华.mp3",
+    "date": "2021-06-21",
+    "translate": {
+      "zh-CN": "努力鸭子坐的京华发出可爱美少女的声音[大虚]",
+      "en-US": ""
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "迷迭迷迭帕里桑",
+    "path": "迷迭迷迭帕里桑.mp3",
+    "date": "2021-06-21",
+    "translate": {
+      "zh-CN": "迷迭迷迭帕里桑[对不起帕里]",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "I can fly！",
+    "path": "I can fly！.mp3",
+    "date": "2021-06-22",
+    "translate": {
+      "zh-CN": "I can fly！",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "kimo",
+    "path": "kimo.mp3",
+    "date": "2021-06-22",
+    "translate": {
+      "zh-CN": "kimo",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "京歌1",
+    "path": "京歌.mp3",
+    "date": "2021-06-22",
+    "translate": {
+      "zh-CN": "你问我爱你有多深",
+      "en-US": ""
+    },
+    "category": "京歌",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "社死现场1",
+    "path": "异世相遇，尽享美味.mp3",
+    "date": "2021-06-22",
+    "translate": {
+      "zh-CN": "异世相遇，尽享美味",
+      "en-US": ""
+    },
+    "category": "圣经",
+    "mark": {
+      "title": "社死指南，上当示范【直播切片】",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1u54y1H7ni"
+    }
+  },
+  {
+    "name": "我是锤子",
+    "path": "我是锤子.mp3",
+    "date": "2021-06-22",
+    "translate": {
+      "zh-CN": "我是锤子",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "我要吃舰长",
+    "path": "我要吃舰长.mp3",
+    "date": "2021-06-22",
+    "translate": {
+      "zh-CN": "我要吃舰长",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "社死指南，上当示范【直播切片】",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1u54y1H7ni"
+    }
+  },
+  {
+    "name": "我要红色sc",
+    "path": "我要红色sc.mp3",
+    "date": "2021-06-22",
+    "translate": {
+      "zh-CN": "我要红色sc",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "社死指南，上当示范【直播切片】",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1u54y1H7ni"
+    }
+  },
+  {
+    "name": "呼吸帕里-音量警告",
+    "path": "呼吸帕里-音量警告.mp3",
+    "date": "2021-06-22",
+    "translate": {
+      "zh-CN": "呼吸帕里[音量警告]",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "对ur撒娇的京华",
+    "path": "对ur撒娇的京华.mp3",
+    "date": "2021-06-22",
+    "translate": {
+      "zh-CN": "对ur撒娇的京华",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "赞美太阳-开幕雷击警告-时长警告",
+    "path": "赞美太阳-开幕雷击警告-时长警告.mp3",
+    "date": "2021-06-22",
+    "translate": {
+      "zh-CN": "赞美太阳[时长警告]",
+      "en-US": ""
+    },
+    "category": "圣经",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "给我钱不如去孝顺父母",
+    "path": "给我钱不如去孝顺父母.mp3",
+    "date": "2021-06-22",
+    "translate": {
+      "zh-CN": "你给京华出两[niang]万人民币啊？",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "京典生日歌1",
+    "path": "京典生日歌.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "京典生日歌1",
+      "en-US": ""
+    },
+    "category": "京歌",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "京华mia合唱生日歌",
+    "path": "京华mia合唱生日歌.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "京华mia合唱生日歌",
+      "en-US": ""
+    },
+    "category": "京歌",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "京华骂倒",
+    "path": "京华骂倒.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "京华骂倒",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "喵日歌nya",
+    "path": "喵日歌nya.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "喵日歌nya",
+      "en-US": ""
+    },
+    "category": "京歌",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "坚持才是DD，打钱awsl",
+    "path": "坚持才是DD，打钱awsl.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "坚持才是DD，打钱awsl",
+      "en-US": ""
+    },
+    "category": "圣经",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "幽闭空间的生日歌",
+    "path": "幽闭空间的生日歌.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "幽闭空间的生日歌",
+      "en-US": ""
+    },
+    "category": "京歌",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "生日RAP",
+    "path": "生日rap.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "生日rap",
+      "en-US": ""
+    },
+    "category": "京歌",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "哎呀呀呀呀",
+    "path": "哎呀呀呀呀.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "哎呀呀呀呀",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "吃饭还是吃我",
+    "path": "吃饭还是吃我.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "吃饭还是吃我",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "猫叫1",
+    "path": "猫叫1.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "猫叫1",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "猫叫2",
+    "path": "猫叫2.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "猫叫2",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "猫叫3",
+    "path": "猫叫3.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "猫叫3",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "猫叫4",
+    "path": "猫叫4.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "猫叫4",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "猫叫5",
+    "path": "猫叫5.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "猫叫5",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "啊！这键盘太棒了！",
+    "path": "啊！这键盘太棒了！.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "啊！这键盘麦克风好舒服啊！",
+      "en-US": ""
+    },
+    "category": "aaa",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "你上当了",
+    "path": "你上当了.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "你上当了",
+      "en-US": ""
+    },
+    "category": "圣经",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "臭DD",
+    "path": "臭DD.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "臭DD",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "心疼giegie",
+    "path": "心疼giegie.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "心疼giegie",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "冫↗水↘米↗唐↘",
+    "path": "冫↗水↘米↗唐↘.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "冫↗水↘米↗唐↘[冰糖视角[时长警告]]",
+      "en-US": ""
+    },
+    "category": "圣经",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "BAKA",
+    "path": "BAKA.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "BAKA",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "fuck you",
+    "path": "fuck you.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "fuck you",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "kksk",
+    "path": "kksk.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "kksk",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "nononono",
+    "path": "nononono.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "nononono",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "不要啦",
+    "path": "不要啦.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "不要啦",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "单推了",
+    "path": "单推了.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "单推了",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "no fuck ",
+    "path": "no fuck .mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "no fuck",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "希望之花~",
+    "path": "希望之花~.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "希望之花~",
+      "en-US": ""
+    },
+    "category": "京歌",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "教育mia的京华-时长警告",
+    "path": "教育mia的京华-时长警告.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "教育mia的京华[时长警告]",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "杰哥 酒",
+    "path": "杰哥 酒.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "杰哥 酒",
+      "en-US": ""
+    },
+    "category": "圣经",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "谢谢这个b",
+    "path": "谢谢这个b.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "谢谢这个b",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "道歉要露出肚皮-我没有肚皮-时长警告",
+    "path": "道歉要露出肚皮-我没有肚皮-时长警告.mp3",
+    "date": "2021-06-23",
+    "translate": {
+      "zh-CN": "道歉要露出肚皮-我没有肚皮[时长警告]",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "某舰长恋口上",
+    "path": "某舰长恋口上.mp3",
+    "date": "2020-01-01",
+    "translate": {
+      "zh-CN": "某舰长暗夹私货的恋口上[能别听就别听了qwq]",
+      "en-US": ""
+    },
+    "category": "???",
+    "mark": {
+      "title": "",
       "time": "",
       "url": ""
     }

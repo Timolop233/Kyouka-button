@@ -3,7 +3,7 @@
     <div class="footer">
       <div>
         <div class="author">
-          <div>©2020</div>
+          <div>©2021</div>
           <template v-for="(item, index) in author" :key="index">
             <a style="margin-left: 5px" v-if="index > 0">&</a>
             <a
@@ -20,13 +20,7 @@
           </template>
         </div>
         <div>
-            Created by
-            <a href="https://github.com/blacktunes/voices-button-cli"
-              >voices-button-cli</a
-            >{{ " / "
-            }}<a href="https://github.com/blacktunes/hiiro-button"
-              >hiiro-button</a
-            >
+            <p></p>
           </div>
       </div>
       <div class="text-right">
