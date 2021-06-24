@@ -1,6 +1,6 @@
 # Kyouka-Button
 
-[[EN](https://github.com/Timolop233/Kyouka-button/blob/main/README-EN.md)/中文]
+[[EN](https://github.com/Timolop233/Kyouka-button/blob/main/README-EN.md)/[日本语](https://github.com/Timolop233/Kyouka-button/blob/main/README-JA.md)/中文]
 
 大家吼！这是数位DD联合搜集整合圣京的网站！
 
