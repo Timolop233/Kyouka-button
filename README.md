@@ -13,8 +13,24 @@
 啊，对了，有的时候可能我们也会摸鱼，提交的圣京不能够马上进行审核。你也可以通过[[监工](https://github.com/Timolop233/Kyouka-button/projects/2)]来催促我们审核。
 
 
+**### LICENSE**
 
-### 草 罢工了 不写了
+\- 使用[voices-button-cli](https://github.com/blacktunes/voices-button-cli)创建的语音按钮
+
+\- 所用模板为[Hiiro按钮](https://github.com/blacktunes/hiiro-button)
+
+
+如果喜欢可以去原作者的项目点个star[别点我的了 我不值得]
+
+
+### 关于LICENSE丢失的致歉声明 ###
+
+​	抱歉，在之前的版本中忘了检查readme.md导致将License丢失
+
+​	在此给原作者道歉，给你带来麻烦了qwq
+
+
+## 草 罢工了 不写了
 
 
 
