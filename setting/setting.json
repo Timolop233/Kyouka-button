@@ -2,14 +2,14 @@
   "name": {
     "CN": {
       "title": "京华破防站[Kyouka Button]",
-      "fullName": ""
+      "fullName": "Kyouka"
     },
     "EN": {
       "title": "Kyouka Button[京华破防站]",
-      "fullName": ""
+      "fullName": "Kyouka"
     }
   },
-  "readme": "",
+  "readme": "<div style=\"text-align: center;\">京哥哥你怎么破防了啊？你的女儿mia很喜欢啊！</div>",
   "header": {
     "icon": "🔨",
     "youtube": "https://www.youtube.com/channel/UCupCAZz1l52vV8m-dvaoBVQ",
@@ -20,7 +20,7 @@
     {
       "name": "京华破防站",
       "url": "#",
-      "background": "1"
+      "background": ""
     }
   ],
   "footer": {
@@ -36,9 +36,9 @@
     "githubUrl": "https://github.com/Timolop233/Kyouka-button"
   },
   "console": {
-    "text": " 言いたいことがあるんだよ！\r\n やっぱりKoyoukaはかわいいよ！\r\n すきす大好き！やっぱ好き！\r\n やっと見つけたお姫様！\r\n 俺が生まれてきた理由！ \r\n それはKyoukaに出会うため！ \r\n 俺と一緒に人生歩もう！ \r\n 世界で一番愛してる！ \r\n ア・イ・シ・テ・ル！！",
-    "size": "",
-    "color": "",
+    "text": "Kyouka",
+    "size": "29px",
+    "color": "#71a097",
     "img": "",
     "imgWidth": "",
     "imgHeight": ""
