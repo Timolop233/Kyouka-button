@@ -20,8 +20,9 @@
           </template>
         </div>
         <div>
-            <p></p>
-          </div>
+            <p>使用<a href="https://github.com/blacktunes/voices-button-cli">voices-button-cli</a>和<a href="https://github.com/blacktunes/hiiro-button">hiiro-button</a>为模板制作</p>
+            <p>如果喜欢可以去给原作者点个star[我就不用了,不值得]</p>
+        </div>
       </div>
       <div class="text-right">
         <div class="git">

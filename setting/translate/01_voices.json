@@ -1776,7 +1776,7 @@
   {
     "name": "京华狼人杀惨叫",
     "path": "京华狼人杀惨叫.mp3",
-    "date": "2020-01-01",
+    "date": "2021-06-24",
     "translate": {
       "zh-CN": "京华狼人杀惨叫",
       "en-US": ""
@@ -1786,6 +1786,81 @@
       "title": "",
       "time": "",
       "url": ""
+    }
+  },
+  {
+    "name": "温柔日语版圣京",
+    "path": "温柔日语版圣京.mp3",
+    "date": "2021-06-25",
+    "translate": {
+      "zh-CN": "温柔日语版圣京",
+      "en-US": ""
+    },
+    "category": "圣经",
+    "mark": {
+      "title": "【锤子低语】温柔圣京",
+      "time": "01:06-02:16",
+      "url": "https://www.bilibili.com/video/BV1op4y1B7rz"
+    }
+  },
+  {
+    "name": "我爱你1",
+    "path": "我爱你.mp3",
+    "date": "2021-06-25",
+    "translate": {
+      "zh-CN": "我爱你",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "【切片合集】轻声细语[p1我爱你]",
+      "time": "00:02-00:05",
+      "url": "https://www.bilibili.com/video/BV1Si4y1L7aa?p=1"
+    }
+  },
+  {
+    "name": "姐姐",
+    "path": "姐姐.mp3",
+    "date": "2021-06-25",
+    "translate": {
+      "zh-CN": "姐姐",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "【直播剪辑】京华用温软的语气叫你姐姐.....",
+      "time": "00:12-00:26",
+      "url": "https://www.bilibili.com/video/BV1fo4y1o7WP"
+    }
+  },
+  {
+    "name": "姐姐（日语）",
+    "path": "姐姐[日语].mp3",
+    "date": "2021-06-25",
+    "translate": {
+      "zh-CN": "姐姐[日语]",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "【直播剪辑】京华用温软的语气叫你姐姐.....",
+      "time": "00:12-00:26",
+      "url": "https://www.bilibili.com/video/BV1fo4y1o7WP"
+    }
+  },
+  {
+    "name": "姐姐不要太累了",
+    "path": "姐姐不要太累了.mp3",
+    "date": "2021-06-25",
+    "translate": {
+      "zh-CN": "姐姐不要太累了",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "【直播剪辑】京华用温软的语气叫你姐姐.....",
+      "time": "00:12-00:26",
+      "url": "https://www.bilibili.com/video/BV1fo4y1o7WP"
     }
   }
 ]
