@@ -1,11 +1,11 @@
 {
   "name": {
     "CN": {
-      "title": "Kyouka Button",
+      "title": "京华破防站[Kyouka Button]",
       "fullName": ""
     },
     "EN": {
-      "title": "Kyouka Button",
+      "title": "Kyouka Button[京华破防站]",
       "fullName": ""
     }
   },
@@ -18,7 +18,7 @@
   },
   "link": [
     {
-      "name": "锤子按钮",
+      "name": "京华破防站",
       "url": "#",
       "background": "1"
     }
