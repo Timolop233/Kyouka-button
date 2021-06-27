@@ -1,6 +1,6 @@
 
 
-![1624762654518](C:\Users\28200\Documents\Tencent Files\2820048741\FileRecv\MobileFile\1624762654518.png)
+![1624762654518](https://kyouka.icu/voices/img/kyouka.jpg)
 
 ##### atr:[結月とば_](https://space.bilibili.com/8799104)
 
