@@ -44,9 +44,9 @@
     "text": "Kyouka",
     "size": "29px",
     "color": "#71a097",
-    "img": "",
-    "imgWidth": "",
-    "imgHeight": ""
+    "img": "kyouka.jpg",
+    "imgWidth": "100%",
+    "imgHeight": "20%"
   },
   "mediaSession": "",
   "CDN": ""
