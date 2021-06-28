@@ -8,8 +8,8 @@
       "en-US": "Kyouka Bible"
     },
     "usePicture": {
-      "zh-CN": "",
-      "en-US": ""
+      "zh-CN": "你是个好人.png",
+      "en-US": "赢了.png"
     },
     "category": "圣经",
     "mark": {
@@ -641,6 +641,10 @@
       "zh-CN": "耶~~~！！！！",
       "en-US": "yeeeee~~~"
     },
+    "usePicture": {
+      "zh-CN": "kawayi.png",
+      "en-US": "kawayi.png"
+    },
     "category": "kawayi",
     "mark": {
       "title": "战地记者张京华的《CS:GO》怪声合集",
@@ -655,6 +659,10 @@
     "translate": {
       "zh-CN": "YES FBI ********",
       "en-US": "YES FBI ********"
+    },
+    "usePicture": {
+      "zh-CN": "shit.jpg",
+      "en-US": "shit.jpg"
     },
     "category": "kawayi",
     "mark": {
@@ -1076,6 +1084,10 @@
       "zh-CN": "素质锤[*********]",
       "en-US": "Fuck you mother"
     },
+    "usePicture": {
+      "zh-CN": "shit.jpg",
+      "en-US": "shit.jpg"
+    },
     "category": "aaa",
     "mark": {
       "title": "【完全胜利的恐怖直播】异形【张京华尖叫】",
@@ -1361,6 +1373,10 @@
       "zh-CN": "坚持才是DD，打钱awsl",
       "en-US": "Persistence is DD, pay awsl"
     },
+    "usePicture": {
+      "zh-CN": "打钱.gif",
+      "en-US": "打钱.gif"
+    },
     "category": "圣经",
     "mark": {
       "title": "",
@@ -1436,6 +1452,10 @@
       "zh-CN": "猫叫1",
       "en-US": "nya~ 1"
     },
+    "usePicture": {
+      "zh-CN": "kawayi.png",
+      "en-US": "kawayi.png"
+    },
     "category": "kawayi",
     "mark": {
       "title": "",
@@ -1450,6 +1470,10 @@
     "translate": {
       "zh-CN": "猫叫2",
       "en-US": "nya~ 2"
+    },
+    "usePicture": {
+      "zh-CN": "kawayi.png",
+      "en-US": "kawayi.png"
     },
     "category": "kawayi",
     "mark": {
@@ -1466,6 +1490,10 @@
       "zh-CN": "猫叫3",
       "en-US": "nya~ 3"
     },
+    "usePicture": {
+      "zh-CN": "kawayi.png",
+      "en-US": "kawayi.png"
+    },
     "category": "kawayi",
     "mark": {
       "title": "",
@@ -1481,6 +1509,10 @@
       "zh-CN": "猫叫4",
       "en-US": "nya~ 4"
     },
+    "usePicture": {
+      "zh-CN": "kawayi.png",
+      "en-US": "kawayi.png"
+    },
     "category": "kawayi",
     "mark": {
       "title": "",
@@ -1495,6 +1527,10 @@
     "translate": {
       "zh-CN": "猫叫5",
       "en-US": "nya~ 5"
+    },
+    "usePicture": {
+      "zh-CN": "kawayi.png",
+      "en-US": "kawayi.png"
     },
     "category": "kawayi",
     "mark": {
@@ -1540,6 +1576,10 @@
     "translate": {
       "zh-CN": "臭DD",
       "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "DD.jpg",
+      "en-US": "DD.jpg"
     },
     "category": "null",
     "mark": {
@@ -1660,6 +1700,10 @@
     "translate": {
       "zh-CN": "单推了",
       "en-US": "Is this the beautiful girl JK? Love!"
+    },
+    "usePicture": {
+      "zh-CN": "DD.jpg",
+      "en-US": "DD.jpg"
     },
     "category": "null",
     "mark": {
@@ -1795,6 +1839,10 @@
     "translate": {
       "zh-CN": "温柔日语版圣京",
       "en-US": "Kyouka quotes in gentle Japanese"
+    },
+    "usePicture": {
+      "zh-CN": "赢了.png",
+      "en-US": "你是个好人.png"
     },
     "category": "圣经",
     "mark": {
