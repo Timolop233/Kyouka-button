@@ -7,8 +7,15 @@
     }
   },
   {
+    "name": "qc",
+    "translate": {
+      "zh-CN": "清楚京华[大 嘘]",
+      "en-US": "Very serious Kyouka"
+    }
+  },
+  {
     "name": "kawayi",
-    "translate":{
+    "translate": {
       "zh-CN": "可爱还涩气的京宝！！！[还**]",
       "en-US": "Cute and sexy Kyouka！！！"
     }

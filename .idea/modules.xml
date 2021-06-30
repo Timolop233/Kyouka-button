@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Kyouka-button.iml" filepath="$PROJECT_DIR$/.idea/Kyouka-button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mia/.idea/mia.iml" filepath="$PROJECT_DIR$/../mia/.idea/mia.iml" />
     </modules>
   </component>
 </project>
