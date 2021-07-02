@@ -7,9 +7,16 @@
     }
   },
   {
+    "name": "最高指令",
+    "translate": {
+      "zh-CN": "最高指令",
+      "en-US": ""
+    }
+  },
+  {
     "name": "qc",
     "translate": {
-      "zh-CN": "清楚京华[大 嘘]",
+      "zh-CN": "我们清楚可人的爱抖露张京华",
       "en-US": "Very serious Kyouka"
     }
   },
@@ -70,6 +77,13 @@
     }
   },
   {
+    "name": "屑",
+    "translate": {
+      "zh-CN": "屑屑京华",
+      "en-US": "bad girl"
+    }
+  },
+  {
     "name": "京歌",
     "translate": {
       "zh-CN": "京歌",
@@ -77,8 +91,8 @@
     }
   },
   {
-    "name":"null",
-    "translate":{
+    "name": "null",
+    "translate": {
       "en-US": "I don't know where it is",
       "zh-CN": "不知道放在哪里的"
     }
