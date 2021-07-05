@@ -7,6 +7,13 @@
     }
   },
   {
+    "name":"千舰",
+    "translate":{
+      "zh-CN":"【生日会】京哥哥的千舰传奇之夜（恭喜京哥哥千舰！！！）",
+      "en-US":"【BIRTHDAY PARTY】The Legend Thousand-boat Night of Kyouka"
+    }
+  },
+  {
     "name": "最高指令",
     "translate": {
       "zh-CN": "最高指令",
