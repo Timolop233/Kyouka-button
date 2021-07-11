@@ -2332,18 +2332,303 @@
     }
   },
   {
-    "name":"平凡之路",
-    "path":"平凡之路.mp3",
-    "date":"2021-06-06",
-    "translate":{
-      "zh-CN":"【京华生日】平凡之路【翻唱】",
-      "en-US":""
+    "name": "平凡之路",
+    "path": "平凡之路.mp3",
+    "date": "2021-06-06",
+    "translate": {
+      "zh-CN": "【京华生日】平凡之路【翻唱】",
+      "en-US": ""
     },
-    "category":"京歌",
-    "mark":{
-      "title":"【京华生日】平凡之路【翻唱】",
-      "time":"",
-      "url":"https://www.bilibili.com/video/BV1EQ4y197Tn"
+    "category": "京歌",
+    "mark": {
+      "title": "【京华生日】平凡之路【翻唱】",
+      "time": "",
+      "url": "https://www.bilibili.com/video/BV1EQ4y197Tn"
+    }
+  },
+  {
+    "name": "上手上手，最上最上",
+    "path": "上手上手，最上最上.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "上手上手，最上最上",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "为了帕里我天天给他买棒棒糖",
+    "path": "为了帕里我天天给他买棒棒糖.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "为了帕里我天天给他买棒棒糖",
+      "en-US": ""
+    },
+    "category": "yyds",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "假装蹩脚的中文介绍",
+    "path": "假装蹩脚的中文介绍.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "假装蹩脚的中文介绍",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "向帕里发脾气的京华【日语】",
+    "path": "向帕里发脾气的京华【日语】.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "向帕里发脾气的京华【日语】",
+      "en-US": ""
+    },
+    "category": "yyds",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "呼吸兔耳美少女的京华",
+    "path": "呼吸兔耳美少女的京华.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "呼吸兔耳美少女的京华",
+      "en-US": ""
+    },
+    "category": "yyds",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "呼唤帕里与chuchu.",
+    "path": "呼唤帕里与chuchu.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "呼唤帕里与chuchu.",
+      "en-US": ""
+    },
+    "category": "yyds",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "因果的出生",
+    "path": "因果的出生.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "因果的出生",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "想和帕里分享心跳的京华【日语】",
+    "path": "想和帕里分享心跳的京华【日语】.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "想和帕里分享心跳的京华【日语】",
+      "en-US": ""
+    },
+    "category": "yyds",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "想和帕里联动的京华【日语】",
+    "path": "想和帕里联动的京华【日语】.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "想和帕里联动的京华【日语】",
+      "en-US": ""
+    },
+    "category": "yyds",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "想折腾帕里一晚上的京华【日语警告】【时长警告】",
+    "path": "想折腾帕里一晚上的京华【日语警告】【时长警告】.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "想折腾帕里一晚上的京华【日语警告】【时长警告】",
+      "en-US": ""
+    },
+    "category": "yyds",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "抖s京华的骂倒【日语】",
+    "path": "抖s京华的骂倒【日语】.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "抖s京华的骂倒【日语】",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "笨蛋【撒娇】",
+    "path": "笨蛋【撒娇】.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "笨蛋【撒娇】",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "脑控成功帕里的京华",
+    "path": "脑控成功帕里的京华.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "脑控成功帕里的京华",
+      "en-US": ""
+    },
+    "category": "yyds",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "觉得帕里说梦话可爱的京华【日语】【低音】",
+    "path": "觉得帕里说梦话可爱的京华【日语】【低音】.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "觉得帕里说梦话可爱的京华【日语】【低音】",
+      "en-US": ""
+    },
+    "category": "yyds",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "让京华自我介绍带上小说家的帕里【日语】",
+    "path": "让京华自我介绍带上小说家的帕里【日语】.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "让京华自我介绍带上小说家的帕里【日语】",
+      "en-US": ""
+    },
+    "category": "yyds",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "语音到睡着的情侣-其一【日语】",
+    "path": "语音到睡着的情侣-其一【日语】.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "语音到睡着的情侣-其一【日语】",
+      "en-US": ""
+    },
+    "category": "yyds",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "语音到睡着的情侣-其二【日语】",
+    "path": "语音到睡着的情侣-其二【日语】.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "语音到睡着的情侣-其二【日语】",
+      "en-US": ""
+    },
+    "category": "yyds",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "蹩脚的初登场（？）介绍",
+    "path": "蹩脚的初登场（？）介绍.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "蹩脚的初登场（？）介绍",
+      "en-US": ""
+    },
+    "category": "kawayi",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "锤子精灵【日语】",
+    "path": "锤子精灵【日语】.mp3",
+    "date": "2021-07-11",
+    "translate": {
+      "zh-CN": "锤子精灵【日语】",
+      "en-US": ""
+    },
+    "category": "null",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
     }
   }
 ]

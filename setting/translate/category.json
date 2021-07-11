@@ -7,16 +7,16 @@
     }
   },
   {
-    "name":"千舰",
-    "translate":{
-      "zh-CN":"【生日会】京哥哥的千舰传奇之夜（恭喜京哥哥千舰！！！）",
-      "en-US":"【BIRTHDAY PARTY】The Legend Thousand-boat Night of Kyouka"
-    }
-  },
-  {
     "name": "最高指令",
     "translate": {
       "zh-CN": "最高指令",
+      "en-US": ""
+    }
+  },
+  {
+    "name": "yyds",
+    "translate": {
+      "zh-CN": "京帕yyds",
       "en-US": ""
     }
   },
@@ -93,8 +93,15 @@
   {
     "name": "京歌",
     "translate": {
-      "zh-CN": "京歌",
+      "zh-CN": "京歌[这里大部分按钮时长过长]",
       "en-US": "Kyouka singing time"
+    }
+  },
+  {
+    "name": "千舰",
+    "translate": {
+      "zh-CN": "【生日会】京哥哥的千舰传奇之夜（恭喜京哥哥千舰！！！）",
+      "en-US": "【BIRTHDAY PARTY】The Legend Thousand-boat Night of Kyouka"
     }
   },
   {
@@ -105,8 +112,8 @@
     }
   },
   {
-    "name":"???",
-    "translate":{
+    "name": "???",
+    "translate": {
       "en-US": "???",
       "zh-CN": "???"
     }
