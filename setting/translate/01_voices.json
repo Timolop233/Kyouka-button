@@ -2660,5 +2660,65 @@
       "time":"",
       "url":""
     }
+  },
+  {
+    "name": "master1",
+    "path": "master1.mp3",
+    "date": "2021-08-08",
+    "translate": {
+      "zh-CN": "主人,汪汪汪",
+      "en-US": ""
+    },
+    "category": "master",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "master2",
+    "path": "master2.mp3",
+    "date": "2021-08-08",
+    "translate": {
+      "zh-CN": "主人，狗狗也想要2000舰！",
+      "en-US": ""
+    },
+    "category": "master",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "master3",
+    "path": "master3.mp3",
+    "date": "2021-08-08",
+    "translate": {
+      "zh-CN": "谢谢主人让我出场！",
+      "en-US": ""
+    },
+    "category": "master",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "master4",
+    "path": "master4.mp3",
+    "date": "2021-08-08",
+    "translate": {
+      "zh-CN": "请给我的主人上舰！",
+      "en-US": ""
+    },
+    "category": "master",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
   }
 ]

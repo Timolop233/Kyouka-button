@@ -14,6 +14,13 @@
     }
   },
   {
+    "name": "master",
+    "translate": {
+      "zh-CN": "冰糖大小姐的狗",
+      "en-US": ""
+    }
+  },
+  {
     "name": "yyds",
     "translate": {
       "zh-CN": "京帕yyds",
