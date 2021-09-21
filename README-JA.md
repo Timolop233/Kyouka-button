@@ -1,6 +1,6 @@
 # Kyouka-Button
 
-Language: [中文](https://github.com/Timolop233/Kyouka-button/blob/main/README.md) | [English](https://github.com/Timolop233/Kyouka-button/blob/main/README-EN.md) | **日本語**
+Language: [中文](https://github.com/YYRDIO/Kyouka-button/blob/main/README.md) | [English](https://github.com/YYRDIO/Kyouka-button/blob/main/README-EN.md) | **日本語**
 
 皆さん！こんにちはこれは数人のDDが共同で集めて聖京を統合するサイトです！
 

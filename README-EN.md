@@ -4,7 +4,7 @@
 
 # 京华破防站[Kyouka-Button]🔨
 
-[EN/[中文](https://github.com/Timolop233/Kyouka-button/blob/main/README.md)/[日本语](https://github.com/Timolop233/Kyouka-button/blob/main/README-JA.md)]
+[EN/[中文](https://github.com/YYRDIO/Kyouka-button/blob/main/README.md)/[日本语](https://github.com/YYRDIO/Kyouka-button/blob/main/README-JA.md)]
 
 ------
 
