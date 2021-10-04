@@ -124,5 +124,12 @@
       "en-US": "???",
       "zh-CN": "???"
     }
-  }
+  },
+    {
+      "name": "公君情话",
+      "translate": {
+        "en-US": "Kyouka (men)'s Love Words",
+        "zh-CN": "公君情话"
+      }
+    }
 ]
