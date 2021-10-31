@@ -2840,5 +2840,20 @@
       "time": "",
       "url": ""
     }
+  },
+  {
+    "name": "【京歌】怪物",
+    "path": "songMonster.mp3",
+    "date": "2021-10-31",
+    "translate": {
+      "zh-CN": "【京歌】怪物",
+      "en-US": "【Kyouka】Monster"
+    },
+    "category": "京歌",
+    "mark": {
+      "title": "【京华】《怪物》翻唱",
+      "time": "",
+      "url": "https://www.bilibili.com/video/av806469173"
+    }
   }
 ]
