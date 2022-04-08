@@ -11,7 +11,7 @@
       "fullName": "Kyouka"
     }
   },
-  "readme": "<div style=\"text-align: center;\">我的式酱，嘿嘿</div>",
+  "readme": "<div style=\"text-align: center;\">式酱，嘿嘿</div>",
   "header": {
     "icon": "🔨",
     "youtube": "https://www.youtube.com/channel/UCupCAZz1l52vV8m-dvaoBVQ",
@@ -20,12 +20,16 @@
   },
   "related": [
     {
+      "name": "Overidea",
+      "url": "https://overidea.jp"
+    },
+    {
       "name": "随便先辈的录播站",
       "url": "https://vupdl.daecnlt.com/"
     },
     {
       "name": "湾狐狸录播站",
-      "url": ""
+      "url": "https://rec.baysonfox.com/"
     }
   ],
   "link": [
@@ -44,7 +48,7 @@
     "author": [
       {
         "name": "随便先辈",
-        "url": "blog.daecnlt.com"
+        "url": "daecnlt.com"
       }
     ],
     "info": [
@@ -59,7 +63,5 @@
     "img": "",
     "imgWidth": "",
     "imgHeight": ""
-  },
-  "mediaSession": "",
-  "CDN": ""
+  }
 }
