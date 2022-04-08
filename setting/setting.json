@@ -1,0 +1,65 @@
+{
+  "i18n": true,
+  "neko_mimi": false,
+  "name": {
+    "CN": {
+      "title": "京华破防站[Kyouka Button]",
+      "fullName": "Kyouka"
+    },
+    "EN": {
+      "title": "Kyouka Button[京华破防站]",
+      "fullName": "Kyouka"
+    }
+  },
+  "readme": "<div style=\"text-align: center;\">我的式酱，嘿嘿</div>",
+  "header": {
+    "icon": "🔨",
+    "youtube": "https://www.youtube.com/channel/UCupCAZz1l52vV8m-dvaoBVQ",
+    "twitter": "https://twitter.com/OverideaHQ",
+    "bilibili": "https://space.bilibili.com/18149131"
+  },
+  "related": [
+    {
+      "name": "随便先辈的录播站",
+      "url": "https://vupdl.daecnlt.com/"
+    },
+    {
+      "name": "湾狐狸录播站",
+      "url": ""
+    }
+  ],
+  "link": [
+    {
+      "name": "Mia按钮",
+      "url": "http://miacheers.top/",
+      "background": "#f1a8b3"
+    },
+    {
+      "name": "梦魇按钮",
+      "url": "https://ciyana.moe",
+      "background": "#0d2485"
+    }
+  ],
+  "footer": {
+    "author": [
+      {
+        "name": "随便先辈",
+        "url": "blog.daecnlt.com"
+      }
+    ],
+    "info": [
+      "一些不知名DD们送给京华的礼物[可能]"
+    ],
+    "githubUrl": "https://github.com/Timolop233/Kyouka-button"
+  },
+  "console": {
+    "text": "嘿嘿嘿，京华，京华",
+    "size": "22px",
+    "color": "#1fa256",
+    "img": "",
+    "imgWidth": "",
+    "imgHeight": ""
+  },
+  "mediaSession": "",
+  "CDN": ""
+}
