@@ -30,9 +30,9 @@
 
 ​	你需要更改的文件如下
 
-​	[语音项目增加]：`setting\translate\01_voices.json`
+​	[语言文件路径]：`setting\translate\01_voices.json`
 
-​	[列表增加]：`setting\translate\category.json`
+​	[Tag列表]：`setting\translate\category.json`
 
 ​	[音频存放路径]：`public\voices`
 
@@ -40,12 +40,11 @@
 
 <br/>
 
-  如果你需要测试，请保证你的环境里安装了nodejs和npm后
-  在项目路径内输入`npm install`
+  本项目更推荐使用yarn脚本测试部署！
+  在保证你的环境中有node<=16.00.00版本 npm<=8.5.0后
+  输入`npm install yarn -g`即可安装yarn
+  在你更改完代码后，输入`yarn && yarn serve`即可查看效果
 
-  （国内地区如果下载速度过慢可使用cnpm，但使用方法`npm install -g cnpm` `cnpm install`）
-  
-  测试运行`npm run serve`
 
 <br/>
 
@@ -53,19 +52,19 @@
 
 ```json
 {
-    "name": "赢了", //可以填写音频文件名，但是不能出现重复值！！！
+    "name": "赢了", //按钮tag（也可以说是按钮名字），
     "path": "赢了.mp3", //这里为音频文件名称，直接填写public\voices的音频文件即可(注意，是mp3格式哦)
-    "date": "2020-02-15", //填写更新日期即可
-    "translate": { //
-      "zh-CN": "赢了，赢了，赢了！！！", //按钮文字，这里填写中文名称即可
-      "en-US": "Kyouka Bible" //同上，填写按钮的英语名称！
+    "date": "2020-02-15", //填写按钮更新日期即可
+    "translate": { //按钮名字
+      "zh-CN": "赢了，赢了，赢了！！！", //按钮在中文状态下显示的名字
+      "en-US": "Kyouka Bible" //按钮在英语状态下显示的名字
     },
-    "usePicture": { 
-      "zh-CN": "", //这里是表情包的文件名称，填写public\voices\img的图片名称即可
-      "en-US": ""  //同上
+    "usePicture": { //按钮表情
+      "zh-CN": "", //这里是中文界面按钮表情包的文件名称，填写public\voices\img的图片名称即可
+      "en-US": ""  //这里是英文界面按钮表情包的文件名称，填写public\voices\img的图片名称即可
     },
-    "category": "圣经", //该字段绑定category.json列表的name字段
-    "mark": { //下面的三个分别填写视频名称'title'、所处时间段'time'、链接地址'url'
+    "category": "圣经", //该字段绑定category.json列表的name（也可以说是tag）字段
+    "mark": { //下面的三个分别填写视频名称'title'、所处时间段'time'、出处视频链接'url'
       "title": "【哭了】张京华被绿了？谁是泠鸢呢？【完全胜利ED】",
       "time": "",
       "url": "https://www.bilibili.com/video/BV1z7411J7c2"
@@ -77,10 +76,10 @@
 
 ```json
 {
-    "name": "圣经", //标签名，不可重复
+    "name": "圣经", //Tag名，保持唯一值（说人话就是不能有重复）
     "translate": {
-      "zh-CN": "京 典 名 场 面",  //列表名称
-      "en-US": "Kyouka famous scene"   //英语列表名称
+      "zh-CN": "京 典 名 场 面",  //中文状态下的列表名称
+      "en-US": "Kyouka famous scene"   //英语状态下的列表名称
     }
 ```
 
