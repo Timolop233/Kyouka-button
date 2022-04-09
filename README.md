@@ -45,6 +45,8 @@
   [查看node和npm版本代码为`node -v`和`npm -v`]
 
   输入`npm install yarn -g`即可安装yarn
+  
+  或者通过[yarn官网](https://yarn.bootcss.com/)安装yarn
 
   在你更改完代码后，输入`yarn && yarn serve`即可查看效果
 
