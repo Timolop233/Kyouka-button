@@ -1,3 +1,4 @@
-/main / 302
-/admin / 302
-/cnmirror https://mirror.kyouka.icu
+/home301  /  301
+/home302  /  302
+/querystrings  /?query=string  301
+/cn  https://mirror.kyouka.icu
