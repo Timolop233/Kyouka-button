@@ -1,6 +1,6 @@
 
 
-![1624762654518](./kyouka.jpg)
+![1624762654518](./kyouka.png)
 
 ##### atr:[結月とば_](https://space.bilibili.com/8799104)
 
