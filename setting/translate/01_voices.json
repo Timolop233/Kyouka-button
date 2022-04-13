@@ -626,6 +626,10 @@
       "zh-CN": "嘿↑嘿↑",
       "en-US": "hei↑hei↑"
     },
+    "usePicture": {
+      "zh-CN": "嘿嘿.jpg",
+      "en-US": "嘿嘿.jpg"
+    },
     "category": "233",
     "mark": {
       "title": "未知或其他联动",
