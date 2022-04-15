@@ -13,7 +13,7 @@
 
 ------
 
-### 项目参与
+### 如何参与项目
 
 ​	通过fork项目使用git克隆项目
 
@@ -88,3 +88,9 @@
 ### LICENSE
 - 使用[voices-button-cli](https://github.com/blacktunes/voices-button-cli)创建的语音按钮
 - 所用模板为[Hiiro按钮](https://github.com/blacktunes/hiiro-button)
+------
+### 鸣谢
+- 头图画师-边阳
+- 嘿嘿表情包提供-YUKI_汤圆小丸子
+- 委托管理-音游人DIO
+> 
