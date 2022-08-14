@@ -31,6 +31,9 @@
         </div>
         <div>{{ t(INFO_I18N.notOfficial) }}</div>
       </div>
+      <div class="51lf">
+        <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JmcjpgKy6EjA0ZY1/quote.js?theme=0&f=12&display=0,1,1,1,0,0,1,1"></script>
+      </div>
     </div>
   </transition>
 </template>
